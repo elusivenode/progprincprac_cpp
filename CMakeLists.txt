@@ -3,4 +3,4 @@ project(progprincprac_cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(ch2_drill2 src/02/d2.cpp)
+add_executable(ch2_drill1 src/02/drill_1.cpp)
